@@ -1,6 +1,6 @@
 require 'rubocop'
 
-#compute sum using Gauss formula
+# compute sum using Gauss formula
 
 def gauss_formula(n)
   n * (n + 1) / 2
